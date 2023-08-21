@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-youtube-clone",
+  "version": "1.0.0",
+  "description": "## Project Overview",
+  "main": "back-end/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielR2105/fullstack-youtube-clone.git"
+  },
+  "author": "Daniel Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielR2105/fullstack-youtube-clone/issues"
+  },
+  "homepage": "https://github.com/DanielR2105/fullstack-youtube-clone#readme"
+}
